@@ -44,6 +44,7 @@ This enclosure is specifically optimized and rebuilt for the Minecraft Compass v
 
 * **`PixelCompass_Firmware_v1.0.bin`:** The pre-compiled binary file. Use the official **WCHISPTool** to flash it onto your board.
 * **Web Dashboard:** [https://dash.chaosgoo.com/pixelcompass/](https://dash.chaosgoo.com/pixelcompass/)
+* **Activation:** To connect with the Web Dashboard, grab your free activation code instantly from the Ko-fi shop: **[PixelCompass Activation Code on Ko-fi](https://ko-fi.com/s/ba9368da91)**.
 * **Need help with Flashing or Activation?** 
   If you are confused about how to enter BOOT mode, flash the chip, or get your free activation code, we have covered every single detail with screenshots in the blog post:
   **Read the [PixelCompass: A Low-Cost, Web-Configurable Minecraft Compass IRL](https://chaosgoo.com/en/pixelcompass-a-better-minecraft-compass-irl/)**

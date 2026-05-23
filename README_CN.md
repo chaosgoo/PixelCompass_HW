@@ -46,6 +46,7 @@
 
 * **`PixelCompass_Firmware_v1.0.bin`：** 编译好的固件。请使用 WCH（沁恒）官方提供的 **WCHISPTool** 烧录工具将其烧录至电路板中。
 * **在线配置网页（Web Dashboard）：** [https://dash.chaosgoo.com/pixelcompass/](https://dash.chaosgoo.com/pixelcompass/)
-* **需要烧录或激活帮助？**
+* **如何激活：** 设备首次连接 Dashboard 需要输入免费的激活码。请直接前往我的 Ko-fi 店铺免费申领（系统会自动发信）：**[在 Ko-fi 免费获取激活码](https://ko-fi.com/s/ba9368da91)**。
+设备首次连接 Dashboard 需要输入免费的激活码才能完成初始化。
 如果你对如何进入 BOOT 模式、如何烧录芯片或者如何获取免费激活码感到困惑，我们在博客文章中用完整的带图步骤进行了解释：
 **阅读 [PixelCompass：一个成本更低、支持网页配置的《我的世界》实体罗盘](https://chaosgoo.com/pixelcompass-a-better-minecraft-compass-irl/)**
